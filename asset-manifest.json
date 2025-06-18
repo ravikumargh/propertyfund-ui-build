@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/propertyfund-ui-build/static/css/main.ee34fddb.css",
-    "main.js": "/propertyfund-ui-build/static/js/main.71a49c74.js",
+    "main.js": "/propertyfund-ui-build/static/js/main.08b7cf20.js",
     "static/media/mockup-map-presentation.png": "/propertyfund-ui-build/static/media/mockup-map-presentation.89ba84429bbfef35a6fd.png",
     "static/media/mockup-presentation.png": "/propertyfund-ui-build/static/media/mockup-presentation.de9828b7aff96684e472.png",
     "static/media/react-mockup.png": "/propertyfund-ui-build/static/media/react-mockup.1a7cb78aeca39cee0586.png",
@@ -43,10 +43,10 @@
     "static/media/italy.svg": "/propertyfund-ui-build/static/media/italy.2b31e5a9b8b01c282c2bd29d19aeb338.svg",
     "static/media/japan.svg": "/propertyfund-ui-build/static/media/japan.382df14ffa58a6b46ba7a8819f58c9c4.svg",
     "main.ee34fddb.css.map": "/propertyfund-ui-build/static/css/main.ee34fddb.css.map",
-    "main.71a49c74.js.map": "/propertyfund-ui-build/static/js/main.71a49c74.js.map"
+    "main.08b7cf20.js.map": "/propertyfund-ui-build/static/js/main.08b7cf20.js.map"
   },
   "entrypoints": [
     "static/css/main.ee34fddb.css",
-    "static/js/main.71a49c74.js"
+    "static/js/main.08b7cf20.js"
   ]
 }
